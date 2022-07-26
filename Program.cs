@@ -19,7 +19,7 @@ namespace ConsoleAmount
             // 建立amt[2][0]~amt[2][3]陣列元素, , 存放高雄分公司第一, 二, 三, 四處的金額
             amt[2] = new double[] { 1000, 2000, 3000, 4000 };
             // 建立 company[0]~company[2]用來存放三個分公司的名稱
-            string[] company = new string[] { "台北", "台中", "高雄" };
+            string[] company = new string[] { "台北", "台中", "台南" };
             // 建立 sum[0]~sum[2]用來存放台北, 台中, 高雄各分公司的總營業額
             double[] sum = new double[] { 0.0, 0.0, 0.0 };
             double total = 0;  //總營業額
