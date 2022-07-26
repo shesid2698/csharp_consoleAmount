@@ -28,7 +28,7 @@ namespace ConsoleAmount
             {
                 for (int k = 0; k < amt[i].Length; k++)
                 {
-                    Console.Write($"\t{amt[i][k]}");    // 顯示各處的金額
+                    Console.Write($"\t{amt[i][k]:c0}");    // 顯示各處的金額
                     sum[i] += amt[i][k];              // 計算各公司的營業額
                 }
                 total += sum[i] * 1000;          // 計算總營業額

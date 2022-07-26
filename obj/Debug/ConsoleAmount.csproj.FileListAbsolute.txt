@@ -4,3 +4,11 @@ C:\cs2019\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.pdb
 C:\cs2019\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.csprojAssemblyReference.cache
 C:\cs2019\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.exe
 C:\cs2019\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.pdb
+C:\C#練習\ConsoleAmount\bin\Debug\ConsoleAmount.exe.config
+C:\C#練習\ConsoleAmount\bin\Debug\ConsoleAmount.exe
+C:\C#練習\ConsoleAmount\bin\Debug\ConsoleAmount.pdb
+C:\C#練習\ConsoleAmount\obj\Debug\ConsoleAmount.csproj.AssemblyReference.cache
+C:\C#練習\ConsoleAmount\obj\Debug\ConsoleAmount.csproj.SuggestedBindingRedirects.cache
+C:\C#練習\ConsoleAmount\obj\Debug\ConsoleAmount.csproj.CoreCompileInputs.cache
+C:\C#練習\ConsoleAmount\obj\Debug\ConsoleAmount.exe
+C:\C#練習\ConsoleAmount\obj\Debug\ConsoleAmount.pdb
