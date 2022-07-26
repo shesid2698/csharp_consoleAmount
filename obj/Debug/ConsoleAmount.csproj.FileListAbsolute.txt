@@ -1,0 +1,6 @@
+C:\cs2019\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.exe.config
+C:\cs2019\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.exe
+C:\cs2019\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.pdb
+C:\cs2019\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.csprojAssemblyReference.cache
+C:\cs2019\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.exe
+C:\cs2019\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.pdb
